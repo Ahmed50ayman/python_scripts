@@ -4,4 +4,4 @@
 
 - [simple_server](./Socket)
 - [simple_client](./Socket)
-- [STACK](./DataStructure)
+- [Stack](./Data Structure)
